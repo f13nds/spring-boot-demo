@@ -1,0 +1,4 @@
+可以使用如下方式访问
+测试： http://localhost:8080/index
+带参数：http://localhost:8080/index/get?name=will
+带参数有中文：http://localhost:8080/index/get?name=利雄
