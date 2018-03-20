@@ -15,7 +15,7 @@ import java.util.HashMap;
  * @author  will
  */
 @RestController
-@RequestMapping(value = "/index")
+@RequestMapping(value = "/indextest")
 public class IndexController {
 
     @RequestMapping
